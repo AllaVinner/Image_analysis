@@ -22,7 +22,7 @@ original = np.array( [ [ w,w,w,b,b],
 					   [ w,w,b,b,b],
 					   [ b,w,b,b,b]])
 
-fname = 'blue_pen.jpg'
+fname = 'mar.jpg'
 # Read file
 domain = mpimg.imread(fname)
 domain = domain/255
